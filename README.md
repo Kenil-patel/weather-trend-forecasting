@@ -91,6 +91,12 @@ Country‑level temperature variability analyzed using standard deviation to obs
 * Coastal regions showed lower temperature variability than inland regions
 
 ---
+## Additional Analysis
+- Ensemble forecasting improved prediction stability
+- Air quality shows correlation with temperature variations
+- Geographic patterns reveal regional climate differences
+---
+
 ## Practical Applications
 - Energy demand planning
 - Agriculture risk prediction
