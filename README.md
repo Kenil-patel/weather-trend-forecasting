@@ -158,7 +158,7 @@ weather-forecasting-project/
 
 ## PM Accelerator Mission
 
-(Add official mission statement from PM Accelerator website here in the final submission presentation/report.)
+The PM Accelerator program is designed to help students and early-career professionals transition into technology careers by developing practical, industry-relevant skills and career readiness. The program focuses on bridging the gap between academic learning and real-world job expectations through hands-on projects, mentorship, and portfolio development. Its goal is to prepare participants to secure roles in competitive tech industries and grow into impactful professionals.
 
 ---
 
