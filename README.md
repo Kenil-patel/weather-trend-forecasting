@@ -115,6 +115,9 @@ Country‑level temperature variability analyzed using standard deviation to obs
 * Scikit‑learn
 * Statsmodels (SARIMA)
 * Prophet
+* Time-Series Ensemble Modeling
+* Environmental Correlation Analysis
+* Geospatial Climate Comparison
 
 ---
 
