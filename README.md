@@ -91,6 +91,14 @@ Country‑level temperature variability analyzed using standard deviation to obs
 * Coastal regions showed lower temperature variability than inland regions
 
 ---
+## Practical Applications
+- Energy demand planning
+- Agriculture risk prediction
+- Climate monitoring
+- Smart city weather adaptation
+- Event planning and logistics
+  
+---
 
 ## Technologies Used
 
