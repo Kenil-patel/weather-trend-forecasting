@@ -154,8 +154,9 @@ weather-forecasting-project/
 ---
 
 ## Reproducibility
-Results may slightly vary due to stochastic models (Random Forest, Isolation Forest).
-Random seeds were fixed where applicable.
+Results may vary slightly due to stochastic machine learning algorithms 
+(Random Forest and Isolation Forest). Random seeds were fixed where applicable 
+to ensure consistent and reproducible outputs across runs.
 
 ---
 
