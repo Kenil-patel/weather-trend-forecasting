@@ -147,5 +147,5 @@ weather-forecasting-project/
 
 ## Author
 
-Kenil Patel
+Kenil P Patel
 
