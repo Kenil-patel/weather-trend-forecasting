@@ -168,8 +168,6 @@ data/GlobalWeatherRepository.csv
 
 ## Project Structure
 
-## Project Structure
-
 ```
 weather-trend-forecasting/
 │
