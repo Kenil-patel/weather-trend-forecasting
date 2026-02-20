@@ -169,11 +169,10 @@ data/GlobalWeatherRepository.csv
 ## Project Structure
 
 weather-forecasting-project/
-│── data/
-│── notebooks/
-│── images/
-│── README.md
-
+├── data/
+├── notebooks/
+├── images/
+└── README.md
 ---
 
 ## PM Accelerator Mission
