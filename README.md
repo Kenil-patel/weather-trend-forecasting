@@ -168,10 +168,17 @@ data/GlobalWeatherRepository.csv
 
 ## Project Structure
 
-weather-forecasting-project/
+weather-trend-forecasting/
+│
 ├── data/
+│   └── GlobalWeatherRepository.csv
+│
 ├── notebooks/
+│   └── weather_analysis.ipynb
+│
 ├── images/
+│   └── (plots & visualizations)
+│
 └── README.md
 ---
 
