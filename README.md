@@ -168,18 +168,26 @@ data/GlobalWeatherRepository.csv
 
 ## Project Structure
 
+## Project Structure
+
+```
 weather-trend-forecasting/
 │
 ├── data/
 │   └── GlobalWeatherRepository.csv
 │
 ├── notebooks/
-│   └── weather_analysis.ipynb
+│   └── Weather_Trends_Forecasting.ipynb
 │
 ├── images/
-│   └── (plots & visualizations)
+│   ├── Anomaly_Detection.png
+│   ├── Feature_Importance.png
+│   └── Temperature_Forecast.png
 │
+├── requirements.txt
 └── README.md
+```
+
 ---
 
 ## PM Accelerator Mission
